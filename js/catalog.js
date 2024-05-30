@@ -50,7 +50,7 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort9.png",
+		img: "img/practice/tort9.png",
 	},
 	{
 		title: "Tortlarimiz",
@@ -70,7 +70,7 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "ipractice/tort13.png",
+		img: "img/practice/tort13.png",
 	},
 	{
 		title: "Tortlarimiz",
@@ -105,7 +105,7 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort20.png",
+		img: "img/practice/tort20.png",
 	},
 	{
 		title: "Tortlarimiz",
