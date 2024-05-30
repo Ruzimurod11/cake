@@ -10,7 +10,7 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price1,
-		img: "../img/practice/tort1.jpg",
+		img: "./img/practice/tort1.jpg",
 	},
 	{
 		title: "Tortlarimiz",
