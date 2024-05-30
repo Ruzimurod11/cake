@@ -15,37 +15,37 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort2.jpg",
+		img: "img/practice/tort2.jpg",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort3.jpg",
+		img: "img/practice/tort3.jpg",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort4.jpg",
+		img: "img/practice/tort4.jpg",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort5.png",
+		img: "img/practice/tort5.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort6.png",
+		img: "img/practice/tort6.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort7.png",
+		img: "img/practice/tort7.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort8.png",
+		img: "img/practice/tort8.png",
 	},
 	{
 		title: "Tortlarimiz",
@@ -55,52 +55,52 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort10.png",
+		img: "img/practice/tort10.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort11.png",
+		img: "img/practice/tort11.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort12.png",
+		img: "img/practice/tort12.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort13.png",
+		img: "ipractice/tort13.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort14.png",
+		img: "img/practice/tort14.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort15.png",
+		img: "img/practice/tort15.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort16.png",
+		img: "img/practice/tort16.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort17.png",
+		img: "img/practice/tort17.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort18.png",
+		img: "img/practice/tort18.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort19.png",
+		img: "img/practice/tort19.png",
 	},
 	{
 		title: "Tortlarimiz",
@@ -110,21 +110,21 @@ const CATALOG = [
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort21.png",
+		img: "img/practice/tort21.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort22.png",
+		img: "img/practice/tort22.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort23.png",
+		img: "img/practice/tort23.png",
 	},
 	{
 		title: "Tortlarimiz",
 		text: price2,
-		img: "../img/practice/tort24.png",
+		img: "img/practice/tort24.png",
 	},
 ]

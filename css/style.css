@@ -497,7 +497,7 @@ body {
 .item-practice__text {
   color: #e20b0b;
   line-height: 142%;
-  font-size: 20px;
+  font-size: 16px;
 }
 @media (max-width: 430px) {
   .item-practice__text {
